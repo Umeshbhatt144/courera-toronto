@@ -2445,9 +2445,9 @@ I will be providing a other supplementary Inferential Statics in the future abou
 
 Thank you.
 
-Cris Magalang  
-email: crism.dev@gmail.com  
-linkedin: www.linkedin.com/in/crismagalang  
+Umesh Bhatt  
+email: umeshbhatt144@gmail.com 
+ 
 
 
 Created For: COURSERA __**IBM Applied Data Science Capstone** Project__
